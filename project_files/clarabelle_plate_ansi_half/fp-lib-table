@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Cutouts")(type "KiCad")(uri "${KIPRJMOD}/Cutouts.pretty")(options "")(descr ""))
+)
